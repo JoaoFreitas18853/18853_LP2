@@ -1,0 +1,11 @@
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\bin\Debug\netcoreapp3.1\Urgencias.exe
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\bin\Debug\netcoreapp3.1\Urgencias.deps.json
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\bin\Debug\netcoreapp3.1\Urgencias.runtimeconfig.json
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\bin\Debug\netcoreapp3.1\Urgencias.runtimeconfig.dev.json
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\bin\Debug\netcoreapp3.1\Urgencias.dll
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\bin\Debug\netcoreapp3.1\Urgencias.pdb
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\obj\Debug\netcoreapp3.1\Urgencias.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\obj\Debug\netcoreapp3.1\Urgencias.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\obj\Debug\netcoreapp3.1\Urgencias.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\obj\Debug\netcoreapp3.1\Urgencias.dll
+C:\Users\Utilizador\Desktop\ProjetoLP2\Urgencias\Urgencias\obj\Debug\netcoreapp3.1\Urgencias.pdb
